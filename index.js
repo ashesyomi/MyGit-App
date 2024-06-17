@@ -23,3 +23,8 @@ function main1(){
 function main2(){
     
 }
+function Log(msg){
+    if(msg){
+        console.Log(msg);
+    }
+}
