@@ -25,6 +25,6 @@ function main2(){
 }
 function Log(msg){
     if(msg){
-        console.Log(msg);
+        console.Log('>>>' + msg) + '<<<<';ㅎ
     }
 }
