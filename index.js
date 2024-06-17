@@ -6,3 +6,6 @@ function login(username) {
 function logout() {
     console.log('logout');
 }
+function fixBugA(){
+    console.log("fixBugA");
+}
